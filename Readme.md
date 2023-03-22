@@ -1,5 +1,6 @@
 ## PID-Controller For Self Balancing Ball On Beam
-//description to be added
+In this project we are trying to balance a ball on a V-beam by taking input from user where to balance it(eg. balance at 12cm point i.e 12cm away from the edge having the IR sensor).
+We are using the PIR algorithm by taking input for the IR sensor present at one edge of the V-beam and using the servo motor attached to the leg of the V-beam to change the orientation of the beam that in turn moves the ball along the beam.
 
 ----
 
